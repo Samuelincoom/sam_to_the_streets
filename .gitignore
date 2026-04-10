@@ -1,0 +1,9 @@
+# Project exclude paths
+.gradle/
+app/build/
+build/
+local.properties
+.idea/
+
+# Large AI Model - DO NOT PUSH TO GITHUB
+app/src/main/assets/ai_model/gemma3-1b-it-int4.litertlm
