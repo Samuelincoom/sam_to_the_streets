@@ -13,6 +13,6 @@ If you are a Python wizard, there is a built-in Python generator to help spin up
 
 
 
-fork it and test it with as much excel and S.A.M. data as possible by creating a folder and putting your open source download of gemma 4 file in this location of the project C:\Your_PC_Location\Documents\SAM for the streets\app\src\main\assets\ai_model
+fork it and test it with as much excel and S.A.M. data as possible by creating a folder and putting your open source download of gemma 4 file in this location of the project C:\Your_PC_Location\SAM for the streets\app\src\main\assets\ai_model
 
 Then build the APK android file. Totally safe because its offline and requests no sensitive permissions.
